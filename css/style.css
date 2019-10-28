@@ -1,0 +1,31 @@
+.red {
+    /* height: 50px; */
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+.green {
+    height: 50px;
+    background-color: green;
+}
+
+.yellow {
+    height: 50px;
+    background-color: yellow;
+}
+
+.btn-aqua {
+    color: #fff;
+    background-color: aqua;
+    border-color: aqua;
+}
+
+.btn-aqua:hover{
+    background-color: rgb(6, 197, 197);
+    color: white;
+}
+
+.h-500{
+    height: 500px;
+    object-fit: cover;
+}
